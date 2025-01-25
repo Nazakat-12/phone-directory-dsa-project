@@ -1,7 +1,7 @@
 /*  DSA Project
-    BSCS-8-B
+    BSCY-3B
     Telephone Directory
-    Updated by: Your Name (Your Roll Number)
+    Nazakat Ali BCYS -3B
 */
 
 #include<iostream>
